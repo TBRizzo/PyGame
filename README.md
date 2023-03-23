@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://bit.ly/2VnXWr2" width="60">
 <h1 align="center">PyGame - Rock, Paper, Scissors, Lizard, Spock</h1>
 
-<p align="center"> This was the first Python project that i developed in the Ironhack Data Analysis Bootcamp :star:
-</h1>
+<p align="center"> First project developed in the Ironhack Data Analysis Bootcamp </h1>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ##  💻 About the project</br>
